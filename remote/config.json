@@ -1,11 +1,15 @@
-{
-  "app_version": "1.1.0",
-  "force_update": false,
-  "update_message": "🚀 New version with awesome UI improvements!",
-  "apk_url": "https://example.com/app.apk",
+📱 App Info
+App Name: Config Sample App
+Package: com.example.config_sample_app
+Version: 1.0.0
+Build Number: 1
 
-  "theme_color": "#673AB7",
-  "font_family": "Courier",
-  "show_banner": true,
-  "banner_message": "📢 Welcome to the Dynamic Flutter App!"
-}
+🌐 Remote Config
+App Version (Remote): 1.1.0
+Force Update: true
+Update Message: A new version is available!
+APK URL: https://yourdomain.com/app.apk
+Theme Color: #009688
+Font: Courier
+Show Banner: true
+Banner Text: 📢 Welcome to the Dynamic Flutter App!
