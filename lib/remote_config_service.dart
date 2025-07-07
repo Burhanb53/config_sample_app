@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class RemoteConfigService {
   static const String configUrl =
-      'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/remote/config.json';
+      'https://github.com/Burhanb53/config_sample_app/blob/main/remote/config.json';
 
   static Future<Map<String, dynamic>> fetchConfig() async {
     final response = await http.get(Uri.parse(configUrl));
