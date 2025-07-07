@@ -1,0 +1,11 @@
+{
+  "app_version": "1.1.0",
+  "force_update": false,
+  "update_message": "🚀 New version with awesome UI improvements!",
+  "apk_url": "https://example.com/app.apk",
+
+  "theme_color": "#673AB7",
+  "font_family": "Courier",
+  "show_banner": true,
+  "banner_message": "📢 Welcome to the Dynamic Flutter App!"
+}
