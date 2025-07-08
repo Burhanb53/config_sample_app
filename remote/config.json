@@ -26,5 +26,10 @@
     "📂 Redesigned file explorer",
     "🔍 Added search functionality",
     "📜 Improved changelog formatting"
-  ]
+  ],
+  "notification": {
+    "show": true,
+    "title": "📢 New Update Released!",
+    "body": "Explore the new file explorer and faster transfers now!"
+  }
 }
