@@ -1,20 +1,30 @@
 {
-  "app_version": "1.1.0",
-  "force_update": false,
-  "update_message": "🔔 A new version is available with improvements!",
-  "apk_url": "https://yourdomain.com/latest.apk",
-
-  "maintenance": false,
-  "maintenance_message": "🚧 We're doing maintenance. Please check back later.",
-
+  "metadata": {
+    "app_name": "Pro File Manager",
+    "release_date": "2025-07-04",
+    "maintainer": "Burhanuddin Bohra",
+    "contact": "support@yourdomain.com"
+  },
+  "versioning": {
+    "app_version": "1.1.0",
+    "force_update": false,
+    "update_message": "🚨 Please update to version 1.1.0 for new features.",
+    "apk_url": "https://yourdomain.com/app.apk"
+  },
+  "ui_config": {
+    "theme_color": "#3F51B5",
+    "font_family": "Roboto",
+    "show_banner": true,
+    "banner_message": "🌟 New update is live — cleaner, faster, better!"
+  },
+  "system_flags": {
+    "maintenance": false,
+    "maintenance_message": "🔧 App under maintenance. Please try again later."
+  },
   "changelog": [
-    "✨ Redesigned UI layout",
-    "🗂️ Improved file explorer",
-    "⚡ Faster launch time"
-  ],
-
-  "theme_color": "#673AB7",
-  "font_family": "Courier",
-  "show_banner": true,
-  "banner_message": "📢 Version 1.1 brings a cleaner UI and better performance!"
+    "⚡ Boosted performance for file transfers",
+    "📂 Redesigned file explorer",
+    "🔍 Added search functionality",
+    "📜 Improved changelog formatting"
+  ]
 }
