@@ -1,11 +1,20 @@
 {
   "app_version": "1.1.0",
   "force_update": false,
-  "update_message": "🚀 New version with UI improvements is available!",
-  "apk_url": "https://example.com/your_app_release.apk",
+  "update_message": "🔔 A new version is available with improvements!",
+  "apk_url": "https://yourdomain.com/latest.apk",
+
+  "maintenance": false,
+  "maintenance_message": "🚧 We're doing maintenance. Please check back later.",
+
+  "changelog": [
+    "✨ Redesigned UI layout",
+    "🗂️ Improved file explorer",
+    "⚡ Faster launch time"
+  ],
 
   "theme_color": "#673AB7",
   "font_family": "Courier",
   "show_banner": true,
-  "banner_message": "📢 Welcome to the Dynamic Flutter App! Enjoy file management like never before."
+  "banner_message": "📢 Version 1.1 brings a cleaner UI and better performance!"
 }
